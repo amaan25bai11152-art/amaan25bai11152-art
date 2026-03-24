@@ -9,11 +9,17 @@ Hi, I'm Amaan Raza Khan 👋
 🛠 Skills
 
 Python (Advanced Basics):
+
 Core: Object-Oriented Programming (OOP)
+
 Libraries: NumPy, Pandas, Matplotlib
+
 Graphics: Python Turtle Graphics
+
 Languages: C++ (Learning), Java (Learning)
+
 Databases: MySQL 
+
 Tools: Git & GitHub 
 
 🎯 Goals
