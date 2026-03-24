@@ -5,6 +5,7 @@ Hi, I'm Amaan Raza Khan 👋
 🚀 Exploring AI/ML, Data Science & MySQL
 
 🛠 Skills
+
 Python (Advanced Basics):
 Core: Object-Oriented Programming (OOP)
 Libraries: NumPy, Pandas, Matplotlib
@@ -14,6 +15,7 @@ Databases: MySQL
 Tools: Git & GitHub 
 
 🎯 Goals
+
 Master Data Structures & Algorithms
 Build AI/ML projects using Pandas and NumPy
 Crack top MNCs
