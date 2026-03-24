@@ -1,7 +1,9 @@
 Hi, I'm Amaan Raza Khan 👋
 
 🎓 CSE (AI/ML) Student at VIT Bhopal 
+
 💻 Learning DSA with C++ & Java
+
 🚀 Exploring AI/ML, Data Science & MySQL
 
 🛠 Skills
