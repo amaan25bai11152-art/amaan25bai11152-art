@@ -24,9 +24,9 @@ Tools: Git & GitHub
 
 🎯 Goals
 
-Master Data Structures & Algorithms
-Build AI/ML projects using Pandas and NumPy
-Crack top MNCs
+Master Data Structures & Algorithms,
+Build AI/ML projects using Pandas and NumPy,
+Crack top MNCs,
 Develop full-stack applications with MySQL integration
 
 📫 Connect with me
