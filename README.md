@@ -1,16 +1,38 @@
-## Hi there 👋
+Here is the updated README in the style of your screenshot, featuring your specific technical stack and your name, Amaan Raza Khan.
 
-<!--
-**amaan25bai11152-art/amaan25bai11152-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Amaan Raza Khan 👋
+🎓 CSE (AI/ML) Student at VIT Bhopal 
+💻 Learning DSA with C++ & Java
+🚀 Exploring AI/ML, Data Science & MySQL
 
-Here are some ideas to get you started:
+🛠 Skills
+Python (Advanced Basics):
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Core: Object-Oriented Programming (OOP)
+
+Libraries: NumPy, Pandas, Matplotlib
+
+Graphics: Python Turtle Graphics
+
+Languages: C++ (Learning), Java (Learning)
+
+Databases: MySQL 
+
+
+Tools: Git & GitHub 
+
+🎯 Goals
+Master Data Structures & Algorithms
+
+Build AI/ML projects using Pandas and NumPy
+
+Crack top MNCs
+
+Develop full-stack applications with MySQL integration
+
+📫 Connect with me
+
+LinkedIn: https://www.linkedin.com/in/amaan-raza-khan-a375ba3a1/ 
+
+
+GitHub: (https://github.com/amaan25bai11152-art)
